@@ -1,0 +1,26 @@
+@charset "utf-8";
+.container-fluid {
+    background-color: #D3ADAE;
+    background-image: -webkit-linear-gradient(270deg,rgba(157,5,62,1.00) 0%,rgba(103,92,177,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(157,5,62,1.00) 0%,rgba(103,92,177,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(157,5,62,1.00) 0%,rgba(103,92,177,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(157,5,62,1.00) 0%,rgba(103,92,177,1.00) 100%);
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-image: -webkit-linear-gradient(270deg,rgba(226,155,202,1.00) 100%,rgba(255,0,0,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(226,155,202,1.00) 100%,rgba(255,0,0,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(226,155,202,1.00) 100%,rgba(255,0,0,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(226,155,202,1.00) 100%,rgba(255,0,0,1.00) 100%);
+}
+.container-fluid .container .row {
+    background-color: #E29BCA;
+}
+.navbar-nav.mr-auto .nav-item.active .nav-link {
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-size: x-large;
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-size: x-large;
+    font-style: normal;
+}
